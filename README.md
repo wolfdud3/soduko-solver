@@ -7,5 +7,5 @@ C01406 - Data Structures and Algorithms
 
 There is nothing much to say about this.
 <br>
-Written in C++ and supposed to solve sudokus provided in a text file.
+Written in C++ and supposed to solve sudokus mainly provided in a text file.
 (Look at provided examples to see how they should be entered)
