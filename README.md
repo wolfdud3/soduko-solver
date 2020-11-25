@@ -1,4 +1,4 @@
-# soduko-solver
+# sudoku-solver
 
 this is a part of an assignment for:
 UCLan Cyprus
